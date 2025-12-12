@@ -1,5 +1,5 @@
 baseURL: "https://test-dan-run.github.io/"
-title: Test-Dan-Run
+title: "Owl Bytes"
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -19,7 +19,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Test-Dan-Run
+  title: Owl Bytes
   description: "Test Dan Run!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -55,7 +55,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Owl Bytes"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -76,16 +76,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to Owl Bytes 🦉"
+    Content: Hi, this is Dan. I'm using this blog to document all of the coding stuffs I'm doing~
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://x.com/testdanrun"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/test-dan-run"
 
   analytics:
     google:
