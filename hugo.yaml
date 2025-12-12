@@ -1,6 +1,7 @@
 baseURL: "https://test-dan-run.github.io/"
 title: Test-Dan-Run
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
